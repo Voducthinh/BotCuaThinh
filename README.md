@@ -1,1 +1,1 @@
-# bot by Trần Trọng Mạnh 
+# bot by  Võ Đức Thịnh
