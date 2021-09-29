@@ -15,7 +15,8 @@
     "BOTNAME": "Thịnh Bot",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100054128852085"
+        "100054128852085",
+        "100014785381476"
     ],
     "DATABASE": {
         "sqlite": {
@@ -84,7 +85,7 @@
         "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
     },
     "sim": {
-        "APIKEY": "Meew_fhU7zzZTvvNOPcLcX9wzljWfxl6CpR"
+        "APIKEY": "Meew_DsEQp1yaWJV4auPdKMYZW5Zn0ekGAr"
     },
     "surprise": {
         "log": true,
@@ -107,5 +108,14 @@
     },
     "ytbmp4": {
         "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "lamviec": {
+        "cooldownTime": 1200000
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
     }
 }
